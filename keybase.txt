@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/jasonmajor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jasonmajor.dev
+  * I am jasonmajor (https://keybase.io/jasonmajor) on keybase.
+  * I have a public key with fingerprint 8E41 7109 7E7E A282 B755  9C91 C381 F1E4 90E8 4FD3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120714882f3d6195b6001c76ff53ed68cb4723a013ce1e965a220ddeae4ebdcfc760a",
+      "fingerprint": "8e4171097e7ea282b7559c91c381f1e490e84fd3",
+      "host": "keybase.io",
+      "key_id": "c381f1e490e84fd3",
+      "kid": "01017ca9f26b68ae8e8095f8eb8b03e1cb09e30d091969aed664abf15a3cd9e6dfa30a",
+      "uid": "51401302951306ad33dd97d8d2283319",
+      "username": "jasonmajor"
+    },
+    "service": {
+      "hostname": "jasonmajor.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1563227974,
+  "expire_in": 157680000,
+  "prev": "cdefd20a4c8147d462863972cb0db6a0620bbea70f41dd6ca19f3a1b161a26c3",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJ7UFRVHF5cFKGwBYQZAQvuSEgtcM993yVqfFSOMZrCCFPAdu495y7L
+Y3fdFy8x1iKdIuLRODpDMUg6GjUokAPjc4GZYAwSAadEypBGIMFqMNIp6S6Tf9X5
+45w5v/N93+/7fXP6grWaIL9ez29TtdM7R/yueBtdmhz94ivlhGRFpYShnCjAywcu
+RNjhNBaYEWEgSECRPGAEgVJoxAGRlTiSBDLPKQpLY8QJssTwFA1JQMsYYJFjIUWR
+CGGIGSwhWVGhJCT0hGK2mLDdZjdbnKqsgBnAA1LkMY8hJVASz7KiLAKZFoACMCOS
+WGAURKvEPKvDx1DNSdCBk8xWtaZejMv2/gf/2DcJeBmKCsVJnACxgAVSZBUBS4JE
+0hjIEilimkSkCEROhOokHAMlBbCQlpGIOaRAetm3a1mOBYw6IUmJrLpzENE0QiKP
+BERRAk0D0Qd0YLsFFmEVnQ8dVksRzLfaiQo9odbdZhn7ovXN8h9MEsJulW+zW51W
+2VqovuU5nTaHwcd1ltp84GIsGf+VMUpmC1KzVBlubHeYrRbCAFSk7DT7dAHL0RTF
+izyjJ3CJzWzHRrMPwfKcQKrL10dtpyaHsIIoEjKyABgeMRwlcLTIU2owSOIgyVGk
+JGHIkwoDEOJkCESFhkACHIAUJ/uSduC9FithoCjVJzSpmg6zyQKdLjsmKnq82f4a
+vyDNqpUrfJ9MExSoe/z1ng/VaRpsutM3olIXF77pTtcmMIEdBVM/7zJVUoZt3md7
+PR/pdxjDj44UXty3fezS0N/i1Yl0+qEnquP1rzNinXuT79WNBfhHe3/Ysn/8HV6j
+Wzf6y1Vlpu7zDCry6dfCn2xwpQ+28KfvN16GPTmf+Q8cSy6mL7NF18jgzrOXrBfe
+orO0z+knvc0L1NzJY4spJandt2/01HCjK04V9J4siw3pPpGQeujwC9/FhaZVHf9E
+RIPXc9L9F79v+vjcdMv+yMz1X0wGRm4iqlfHxcDOPfH9H3Y+kdcfVuU5t3t8atPs
+5ualtUuutgrPe2ecLw7Hhx0dC7kzeSQw4itPZr39vjG3JHJ1d/X0nsTWb6NCklwB
+2br4/voP3octrdpey/VHnWkFr4bZlpoMucRSdG3ju6m1u/7aUlkfd/5B6Rtbk8vq
+E/PDU9ojDhw57u06FWWYOeu9O3d+d9ubd14KvXsg5e0LERufObzjkbdoqC9zVl6b
+fcudmth+YoDv4sumkjbsNK2Z2nbxR400x3U0ZrkjRpPuzdc0NKWtL9I2iLH2EHJh
+aej3wJybAb2HNrcnFEcOlGe2B+tu37y23baharjL+sfKNate7nkqduJWZbSpbVwp
+u7JQPcFQMfvWGfzjP03a+FPlYO5sDrtiZvihIaMGuhtNI4X6/rauB/OlmTFZ7Jfa
+5oN9grm1buuZP5Pnf/0Hvk2+OA==
+=p2ad
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jasonmajor
+
+==================================================================
+
